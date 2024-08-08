@@ -1,11 +1,11 @@
 {
-    "name": "dadolun95/magento2-brevo-sendinblue-light",
+    "name": "morresmx/gbrevo-m2-light",
     "description": "Magento2 Brevo (Sendinblue previously) Contact Sync Integration Module",
     "type": "magento2-module",
     "version": "1.0.14",
     "require": {
-        "dadolun95/magento2-brevo-sendinblue-core": "^1.0",
-        "getbrevo/brevo-php": "^1.0"
+        "morresmx/gbrevo-m2-core": "dev-master",
+        "morresmx/gb-php": "dev-main"
     },
     "license": [
         "MIT"
